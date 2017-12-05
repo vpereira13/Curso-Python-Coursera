@@ -10,7 +10,6 @@ Os exercícios estão distribuídos da seguinte maneira, em cada semana tem os e
 Tentei deixar todos os exercícios comentados, com isso foram colocados comentários com a descrição do problema no topo, a descrição de cada função criada e os casos de teste que implementei. Lembrando que para os casos de teste usei a ferramenta `pytest`.
 
 ## Licença
-[comment]: <> (Não sei se posso colocar essa licença, ainda mais porque não coloquei nenhum comentário nos códigos, nem no próprio github)
 Os programas deste repositório estão sobre a licença de [GPLv3](https://www.gnu.org/licenses/gpl.html).
 
 [1]: https://www.coursera.org/learn/ciencia-computacao-python-conceitos
