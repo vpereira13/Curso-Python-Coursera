@@ -5,7 +5,7 @@ Os exercícios adicionados nesse repositório são dos cursos Introdução à Ci
 Tenho como interesse aprender melhor com a linguagem Python 3, tentando novos conceitos como orientação a objetos com essa nova linguagem.
 
 ## Organização
-Os exercícios estão distribuídos da seguinte maneira, em cada semana tem os exercícios obrigatórios (exX.py, em que X é o número do exercício) e os extras (exX_op.py, em que X é o número do exercício extra).
+Os exercícios estão distribuídos da seguinte maneira, em cada semana tem os exercícios obrigatórios (`exX.py`, em que `X` é o número do exercício) e os extras (`exX_op.py`, em que `X` é o número do exercício extra).
 
 Tentei deixar todos os exercícios comentados, com isso foram colocados comentários com a descrição do problema no topo, a descrição de cada função criada e os casos de teste que implementei. Lembrando que para os casos de teste usei a ferramenta `pytest`.
 
