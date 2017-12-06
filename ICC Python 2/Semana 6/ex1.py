@@ -10,11 +10,11 @@ def soma_lista(lista):
 	"""Função recursiva que calcula a soma dos elementos de uma lista
 
 	Args:
-	    lista (list): lista de números inteiros
+		lista (list): lista de números inteiros
 
 	Returns:
-	    int: se tamanho da lista = 1, retorna o único valor, caso contrário, retorna
-	    o primeiro elemento mais a chamada de função com a lista restante
+		int: se tamanho da lista = 1, retorna o único valor, caso contrário, retorna
+		o primeiro elemento mais a chamada de função com a lista restante
 	"""
 	if len(lista) < 2:
 		return lista[0]

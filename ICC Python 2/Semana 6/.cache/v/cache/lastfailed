@@ -1,0 +1,5 @@
+{
+  "ex3.py::testElefantes[2-Um elefante incomoda muita gente\\n2 elefantes incomodam incomodam muito mais]": true,
+  "ex3.py::testElefantes[3-Um elefante incomoda muita gente\\n2 elefantes incomodam incomodam muito mais\\n2 elefantes incomodam muita gente\\n3 elefantes incomodam incomodam incomodam muito mais]": true,
+  "ex3.py::testElefantes[4-Um elefante incomoda muita gente\\n2 elefantes incomodam incomodam muito mais\\n2 elefantes incomodam muita gente\\n3 elefantes incomodam incomodam incomodam muito mais\\n3 elefantes incomodam muita gente\\n4 elefantes incomodam incomodam incomodam incomodam muito mais]": true
+}
