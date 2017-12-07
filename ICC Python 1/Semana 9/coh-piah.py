@@ -267,7 +267,7 @@ def avalia_textos(textos, ass_cp):
 			S = similaridade
 			texto = i
 
-	return texto
+	return texto + 1
 
 def tamanho_medio_de_palavra(texto):
 	"""Essa função calcula o tamanho médio de palavra no texto, ou seja, soma
@@ -343,12 +343,11 @@ def tamanho_medio_de_sentenca(texto):
 		sentenças no texto
 	"""
 	lista_de_sentencas = separa_sentencas(texto)
-	lista_de_frases = []
 	soma = 0
+
 	for sentenca in lista_de_sentencas:
-		lista_de_frases += separa_frases(sentenca)
-	for frases in lista_de_frases:
-		soma += len(frases)
+		soma += len(sentenca)
+
 	return soma/len(lista_de_sentencas)
 
 def complexidade_media_de_sentenca(texto):
